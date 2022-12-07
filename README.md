@@ -1,8 +1,3 @@
-
-
-<!-- saved from url=(0054)file:///C:/Users/abhir/OneDrive/Desktop/portfolio.html -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<title>My Portfolio</title>
 </head>
 
 <body text="black" background="./My Portfolio5_files/abhi.jpg" width="1920" height="1080">
