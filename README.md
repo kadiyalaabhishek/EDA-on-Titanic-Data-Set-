@@ -1,3 +1,6 @@
+This data set consists of information about the passengers of the RMS Titanic ship And
+also have info about is that particular passenger has survived that disaster or not. For
+every individual person, we have information about
 Passenger Id- Id number of passengers in the data set
 Name- Name of the passenger
 Survival- Person survived or not ( 0 for No & 1 for Yes)
